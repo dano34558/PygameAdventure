@@ -1,0 +1,19 @@
+{
+    "abilities": [
+      {
+        "name": "Leaching Strike",
+        "description": "Leaches a percentage of damage dealt to the target and adds it to the attacker's health.",
+        "type": "offensive"
+      },
+      {
+        "name": "Crippling Blow",
+        "description": "Reduces the target's damage output for a certain number of turns.",
+        "type": "offensive"
+      },
+      {
+        "name": "Healing Touch",
+        "description": "Restores a percentage of the user's health.",
+        "type": "defensive"
+      }
+    ]
+  }
